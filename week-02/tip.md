@@ -1,7 +1,10 @@
 # Tips for this week
 
-Provide evidence that your team has completed the Git/Github Recipes lab.
 
-Comment on your growing understanding of the client's requirements.  This may include a draft MoSCoW analysis.  Outline tools set up to help the team work together.
+https://github.com/Pelwis01/team-recipe-book
+
+recipe attempt above ^^^
+
+we decided to research key rewuirements, user stories, cattle parasites, how to host, find data for project.
 
 Create a retrospective entry for week one and and `read.md` file. 

@@ -1,3 +1,5 @@
 # Tips for this week
 
-Comment on the personality type identified in the questionnaire.  Discuss the role you hope to play in the team.
+i got dependant and facilitator
+
+i hope to keep people on track and help front end developement and general help wherever needed eg research and databases

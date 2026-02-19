@@ -12,3 +12,4 @@ Comment on actions during the first Sprint Week.
 ## added placeholder sections for each variable along with corresponding icons
 # day 4
 ## helped resolve merge conflicts
+## fixed documentation based on feedback

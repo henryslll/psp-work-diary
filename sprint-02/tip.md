@@ -8,3 +8,8 @@ Comment on actions during the second Sprint Week.
 ## managed to fix bugs with map and heatmap when sidebar untoggled
 ## ^ would always pretend the sidebar was still there and not load the heatmap in the far right side of the screen
 ## ^^ works fine now
+# day 2
+## started working on mobile view
+## struggled with other code overwriting new code
+## got a rough prototype
+# day 3

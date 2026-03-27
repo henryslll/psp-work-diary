@@ -13,3 +13,12 @@ Comment on actions during the second Sprint Week.
 ## struggled with other code overwriting new code
 ## got a rough prototype
 # day 3
+## finished inital mobile view
+## had to update location info when user clicks
+# day 4
+## fixed styling
+## finished mobile view fully
+# day 5
+## presented 
+## sorted merge conflicts
+## main branch done
